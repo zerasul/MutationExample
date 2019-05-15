@@ -16,3 +16,5 @@ Para obtener los resultados de los Mutation Tests:
 3.- Encontraras el informe HTML en las carpetas <proyecto>/target/pit-reports/<fecha>/index.html
 
 Dejamos una imagen de ejemplo
+
+![pitest](pitest.PNG)
